@@ -1,0 +1,11 @@
+C:\Users\manso\source\repos\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.firstGame.resources
+C:\Users\manso\source\repos\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.GenerateResource.cache
+C:\Users\manso\Desktop\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.AssemblyReference.cache
+C:\Users\manso\Desktop\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.firstGame.resources
+C:\Users\manso\Desktop\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.GenerateResource.cache
+F:\Projects\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.AssemblyReference.cache
+F:\Projects\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.firstGame.resources
+F:\Projects\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.GenerateResource.cache
+F:\Projects\CLRWindowsFormAplicationCpp\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.AssemblyReference.cache
+F:\Projects\CLRWindowsFormAplicationCpp\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.firstGame.resources
+F:\Projects\CLRWindowsFormAplicationCpp\TicTacToeCpp\TicTacToeCpp\Debug\TicTacToeCpp.vcxproj.GenerateResource.cache
