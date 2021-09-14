@@ -1,0 +1,3 @@
+C:\Users\manso\source\repos\grayscale3\grayscale3\Debug\grayscale3.GrayScale.resources
+C:\Users\manso\source\repos\grayscale3\grayscale3\Debug\grayscale3.vcxproj.GenerateResource.cache
+C:\Users\manso\source\repos\grayscale3\grayscale3\Debug\grayscale3.vcxproj.AssemblyReference.cache
